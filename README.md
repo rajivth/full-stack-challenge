@@ -61,7 +61,7 @@ A review has the following attributes:
 
 Required artifacts:
 - Dockerfile
-- Code wit test cases.
+- Code with test cases.
 - Readme.md file for installation and running.
 - API Documentation. (Swagger is preferrable).
 - Docker Compose, Docker Swarm or Kuberntes orchestration. (Nice to have)
