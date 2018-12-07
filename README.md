@@ -6,11 +6,11 @@ This repository contains an intro challange for full stack developers who want t
 ### So you want to prove you're worthy to join DataOne? Awesome!
 
 **Here you go:**
-* Create a github account if you don't have yet.
-* Clone this repository.
-* Solve the tasks you can read below.
-* Commit and push your work.
-* When you think you finished with all the tasks send us an email with your github repository link.
+* Read below insturctions carefully
+* Setup local environment in your machine and perform this task
+* Send us your submission through a cloud hosting service (Link to Google Drive, Dropbox etc.) 
+* Make sure you put a README file with detailed instructions and all assumptions to run your code
+* When you think you finished with all the tasks send us an email with your submission link.
 
 **Tasks:**
 
